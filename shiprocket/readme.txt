@@ -3,11 +3,11 @@
 
 Contributors: Shiprocket
 donate link: shiprocket.in
-Tags: Shipping, E-commerce shipping, shipping solutions, shipping module in woo commerce,shipping plugin woocommerce,woocommerce pickup shipping,woocommerce usps shipping extension,woo commerce shipping module,custom shipping module woo commerce,woo commerce shipping methods,woocommerce shipping by postcode,woocommerce create shipping module,woocommerce logistics integration,woo commerce custom shipping method,fedex woocommerce,woo commerce per product shipping,shipment tracking woocommerce,woocommerce freight service,woocommerce shipping methods not showing,woocommerce auto select shipping method,woocommerce ecom express,woocommerce delivery service,woocommerce delivery integration,woo commerce aramex,woo commerce shipping method per product,woocommerce logistic,shipping per product woocommerce,woocommerce logistic service,woocommerce logistics service,shipping module in woocommerce,woocommerce multiple shipping methods,woocommerce cash delivery,woo commerce shipping method extension, Shipping india
+Tags: woocommerce shipping, shipment tracking, cash on delivery, logistics integration, shipping india
 Requires at least: 4.8
 Requires PHP: 4.8
-Tested up to: 6.5
-Stable tag: 2.0.6
+Tested up to: 6.9
+Stable tag: 2.0.8
 License: GPLv3
 
 Auto Sync your Woocommerce store orders & ship them at lowest shipping rates. Automate your shipping, save time & money.
@@ -29,7 +29,7 @@ Here are a few more features you get in the Shiprocket panel.</p>
 <p><b>How to integrate your Woocommerce store with Shiprocket?</b></p>
 <strong>USING THE WOOCOMMERCE ADMIN PANEL</strong>
 <p>1. Login to the Woocommerce Admin Panel <br>
-2. Go to Settings → Advanced → Legacy API <br>
+2. Go to Settings → Advanced → Enable Rest API <br>
 3. Click on Enable Rest API.<br>
 4. Save the settings<br></p>
 <strong>App Configuration Process</strong>

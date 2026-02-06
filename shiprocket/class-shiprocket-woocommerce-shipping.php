@@ -2,13 +2,13 @@
 /**
  * Plugin Name: Shiprocket
  * Description: Seamlessly integrate with Shiprocket which will help you ship across 26000 pincodes and and at the cheapest of rates. Let you customer choose the courier based on their flexibility.
- * Version: 2.0.2
+ * Version: 2.0.8
  * Author: Shiprocket
  * Author URI: https://shiprocket.in
  * Copyright: Shiprocket
  * Text Domain: shiprocket-woocommerce-shipping-calculator
  * Requires at least: 3.0.0
- * Tested up to: 6.1
+ * Tested up to: 6.9
  *
  * @package Shiprocket
  */
